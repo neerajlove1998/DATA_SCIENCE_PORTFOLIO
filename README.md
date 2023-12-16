@@ -14,9 +14,9 @@ LinkedIn :- *[Neeraj_Kumar](https://www.linkedin.com/in/neeraj-kumar-026324148/)
 
 #### 01. [Basic Python Exercise](https://github.com/neerajlove1998/DATA_SCIENCE_PORTFOLIO/tree/main/Basic%20Python%20Exercise)
 
-* __Description:__
-    
-   The Basic Python Exercise project is designed as a foundational resource for mastering Python programming. It comprises a set of diverse exercises covering essential concepts such as variables, loops,             conditionals, and functions. Each exercise is crafted to reinforce fundamental programming principles and enhance proficiency in Python syntax. The repository provides a structured learning path, making           it accessible for Python learners at various levels.
+* __Description:__ 
+
+    The Basic Python Exercise project is designed as a foundational resource for mastering Python programming. It comprises a set of diverse exercises covering essential concepts such as variables, loops,             conditionals, and functions. Each exercise is crafted to reinforce fundamental programming principles and enhance proficiency in Python syntax. The repository provides a structured learning path, making           it accessible for Python learners at various levels.
 
 * __Key Components:__
 
@@ -25,6 +25,16 @@ LinkedIn :- *[Neeraj_Kumar](https://www.linkedin.com/in/neeraj-kumar-026324148/)
      - Organized structure for easy navigation and learning.
 
 #### 02. [Basic Statistics - Hypothesis Testing](https://github.com/neerajlove1998/DATA_SCIENCE_PORTFOLIO/tree/main/Basic%20Statistics%20-%20Hypothesis%20Testing)
+
+* __Description:__
+
+    The Basic Statistics - Hypothesis Testing project is a comprehensive exploration of statistical analysis using Python. It involves working with datasets to perform descriptive statistics, understand data          distributions, and conduct hypothesis tests for making informed conclusions. The project includes Jupyter notebooks with detailed explanations, visualizations, and interpretations, providing a hands-on            approach to statistical reasoning.
+
+* __Key Components:__
+
+    - Descriptive statistics and exploratory data analysis (EDA).
+    - Hypothesis testing exercises and interpretations.
+    - Visualizations to support data-driven insights.
 
 #### 03. [Basic Data Manipulation - Visualization Exercise](https://github.com/neerajlove1998/DATA_SCIENCE_PORTFOLIO/tree/main/Basic%20Data%20Manipulation%20-%20Visualization%20Exercise)
 
