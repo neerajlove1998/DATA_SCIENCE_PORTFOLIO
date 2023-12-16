@@ -108,4 +108,24 @@ LinkedIn :- *[Neeraj_Kumar](https://www.linkedin.com/in/neeraj-kumar-026324148/)
      - Data collection, cleaning, and exploratory analysis.
      - Possible application of machine learning for predictive insights.
 
+ #### 09. SQL-Mobile-Manufacture-Data-Analysis
 
+* __Description:__
+     The SQL-Mobile-Manufacture-Data-Analysis project is a comprehensive exploration of manufacturing data within the mobile industry using SQL. It involves            querying and analyzing data related to mobile device production, quality control, and overall manufacturing processes. The project may cover aspects such as       production efficiency, defect analysis, and performance metrics. The repository includes SQL scripts, query results, and documentation providing insights          into the manufacturing landscape.
+
+* __Key Components:__
+
+     - SQL queries for extracting and analyzing manufacturing data.
+     - Investigation into production efficiency and defect analysis.
+     - Documentation highlighting key findings and recommendations.
+ 
+ #### 10. SQL-Retail-Data-Analysis
+
+* __Description:__
+     The SQL-Retail-Data-Analysis project focuses on leveraging SQL for in-depth analysis of retail data. It encompasses querying and examining data related to         retail operations, sales trends, and customer behavior. The analysis may cover areas such as product performance, customer segmentation, and inventory             management. The repository includes SQL scripts, query results, and comprehensive documentation showcasing the insights gained through SQL-driven retail data      analysis.
+
+* __Key Components:__
+
+     - SQL queries for extracting and analyzing retail data.
+     - Exploration of sales trends, customer behavior, and product performance.
+     - Documentation providing a detailed narrative of retail data insights.
