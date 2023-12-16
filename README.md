@@ -38,6 +38,16 @@ LinkedIn :- *[Neeraj_Kumar](https://www.linkedin.com/in/neeraj-kumar-026324148/)
 
 #### 03. [Basic Data Manipulation - Visualization Exercise](https://github.com/neerajlove1998/DATA_SCIENCE_PORTFOLIO/tree/main/Basic%20Data%20Manipulation%20-%20Visualization%20Exercise)
 
+* __Description:__
+  
+    The Basic Data Manipulation - Visualization Exercise project focuses on practical skills in data manipulation and visualization using Python. It covers tasks such as data cleaning, transformation, and the         creation of meaningful visualizations using Matplotlib and Seaborn. The repository is structured with Jupyter notebooks, providing step-by-step guidance on data preparation and effective visualization             techniques.
+
+* __Key Components:__
+
+   - Data cleaning and manipulation exercises.
+   - Creation of informative visualizations using Matplotlib and Seaborn.
+   - Hands-on exercises for enhancing data presentation skills.
+
 #### 04. [Python Foundation Case Study 1 - Retail Case Study](https://github.com/neerajlove1998/DATA_SCIENCE_PORTFOLIO/tree/main/Python%20Foundation%20Case%20Study%201%20-%20Retail%20Case%20Study)
 
 #### 05. [Python Foundation Case Study 2 - Credit Card Case Study](https://github.com/neerajlove1998/DATA_SCIENCE_PORTFOLIO/tree/main/Python%20Foundation%20Case%20Study%202%20-%20Credit%20Card%20Case%20Study)
