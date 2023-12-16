@@ -14,6 +14,16 @@ LinkedIn :- *[Neeraj_Kumar](https://www.linkedin.com/in/neeraj-kumar-026324148/)
 
 #### 01. [Basic Python Exercise](https://github.com/neerajlove1998/DATA_SCIENCE_PORTFOLIO/tree/main/Basic%20Python%20Exercise)
 
+* __Description:__
+    
+   The Basic Python Exercise project is designed as a foundational resource for mastering Python programming. It comprises a set of diverse exercises covering essential concepts such as variables, loops,             conditionals, and functions. Each exercise is crafted to reinforce fundamental programming principles and enhance proficiency in Python syntax. The repository provides a structured learning path, making           it accessible for Python learners at various levels.
+
+* __Key Components:__
+
+     - Varied exercises targeting different Python concepts.
+     - Clear instructions and solutions for each exercise.
+     - Organized structure for easy navigation and learning.
+
 #### 02. [Basic Statistics - Hypothesis Testing](https://github.com/neerajlove1998/DATA_SCIENCE_PORTFOLIO/tree/main/Basic%20Statistics%20-%20Hypothesis%20Testing)
 
 #### 03. [Basic Data Manipulation - Visualization Exercise](https://github.com/neerajlove1998/DATA_SCIENCE_PORTFOLIO/tree/main/Basic%20Data%20Manipulation%20-%20Visualization%20Exercise)
